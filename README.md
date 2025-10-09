@@ -13,10 +13,22 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+## 🧠 Projects
+
+### SI PMS (2019 to present)
+PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
+**Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/si-pms.png?raw=true)
+
+### Payupstat (2019)
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
+**Tech:** React, Node.js, Express, MongoDB 
 ![Alt Text](https://github.com/jaymabazza/mywork/blob/main/payup-stat.png?raw=true)
 
+### GBBC (2024)
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
+**Tech:** Wordpress, Tailwind, AI, AWS 
 ![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screencapture-gbbcnz-org-locate-us-2025-10-02-17_40_47.png?raw=true)
 
 
