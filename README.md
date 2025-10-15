@@ -24,6 +24,10 @@ PMS is a project management system for tracking school infrastructure activities
 
 ![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-02.png?raw=true)
 
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-03.png?raw=true)
+
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-04.png?raw=true)
+
 
 
 ### Payupstat (2019)
