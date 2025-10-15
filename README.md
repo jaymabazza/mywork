@@ -19,7 +19,7 @@
 ### SI PMS (2019 to present)
 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/si-pms.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-01.png.png?raw=true)
 
 ### Payupstat (2019)
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
