@@ -20,13 +20,13 @@
 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-01.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-01.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-02.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-02.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-03.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-03.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-04.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-04.png?raw=true)
 
 
 
