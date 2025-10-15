@@ -22,6 +22,9 @@ PMS is a project management system for tracking school infrastructure activities
 
 ![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-01.png?raw=true)
 
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/PMS-MAIN-02.png?raw=true)
+
+
 
 ### Payupstat (2019)
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
