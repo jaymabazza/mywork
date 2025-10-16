@@ -18,6 +18,7 @@
 
 ### SI PMS (2019 to present)
 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
+
 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
 
 ![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-01.png?raw=true)
@@ -32,6 +33,7 @@ PMS is a project management system for tracking school infrastructure activities
 
 ### Payupstat (2019)
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
+
 **Tech:** React, Node.js, Express, MongoDB 
 
 ![Payupstat](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
@@ -40,6 +42,7 @@ PayUpStat is a web app for doctors and nurses to securely record and manage thei
 
 ### GBBC (2024)
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
+
 **Tech:** Wordpress, Tailwind, AI, AWS 
 
 ![GBBC](https://github.com/jaymabazza/mywork/blob/main/screens/GBBC-MAIN-02.png?raw=true)
@@ -48,6 +51,7 @@ GBBC is a fully customised WordPress site featuring extended functionality throu
 
 ### LOVE AGENCY (2015)
 Love Agency is a Sydney-based digital design and web solutions agency specialising in high quality native mobile apps and responsive websites.
+
 **Tech:** Laravel PHP, Angular, CSS, HTML, Responsive Web, WCAG 
 
 ![Love Agency](https://github.com/jaymabazza/mywork/blob/main/screens/LA-MAIN-01.png?raw=true)
@@ -57,8 +61,10 @@ Love Agency is a Sydney-based digital design and web solutions agency specialisi
 ![Love Agency](https://github.com/jaymabazza/mywork/blob/main/screens/LA-MAIN-03.png?raw=true)
 
 
+
 ### NRMA x ABC AWARDS (2014)
 The NRMA Best Car of the Year Awards recognise Australia’s top-performing vehicles across various categories, celebrating excellence in safety, value, performance, and overall ownership experience.
+
 **Tech:** Laravel PHP, CSS. HTML, Angular
 
 ![NRMA ABC](https://github.com/jaymabazza/mywork/blob/main/screens/NRMA-ABC-01.png?raw=true)
