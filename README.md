@@ -20,13 +20,13 @@
 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-01.png?raw=true)
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-01.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-02.png?raw=true)
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-02.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-03.png?raw=true)
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-03.png?raw=true)
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-04.png?raw=true)
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-04.png?raw=true)
 
 
 
@@ -34,7 +34,7 @@ PMS is a project management system for tracking school infrastructure activities
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
 **Tech:** React, Node.js, Express, MongoDB 
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
+![Payupstat](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
 
 
 
@@ -42,7 +42,15 @@ PayUpStat is a web app for doctors and nurses to securely record and manage thei
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
 **Tech:** Wordpress, Tailwind, AI, AWS 
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/GBBC-MAIN-02.png?raw=true)
+![GBBC](https://github.com/jaymabazza/mywork/blob/main/screens/GBBC-MAIN-02.png?raw=true)
+
+
+
+### LOVE AGENCY (2017)
+Love Agency is a Sydney-based digital design and web solutions agency specialising in high quality native mobile apps and responsive websites.
+**Tech:** Laravel PHP, Angular, CSS, HTML, Responsive Web, WCAG 
+
+![Love Agency](https://github.com/jaymabazza/mywork/blob/main/screens/LA-MAIN-01.png?raw=true)
 
 
 
