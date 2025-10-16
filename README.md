@@ -42,7 +42,7 @@ PayUpStat is a web app for doctors and nurses to securely record and manage thei
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
 **Tech:** Wordpress, Tailwind, AI, AWS 
 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/GBBC-MAIN-01.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/GBBC-MAIN-02.png?raw=true)
 
 
 
