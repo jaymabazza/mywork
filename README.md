@@ -52,5 +52,7 @@ Love Agency is a Sydney-based digital design and web solutions agency specialisi
 
 ![Love Agency](https://github.com/jaymabazza/mywork/blob/main/screens/LA-MAIN-01.png?raw=true)
 
+![Love Agency](https://github.com/jaymabazza/mywork/blob/main/screens/LA-MAIN-02.png?raw=true)
+
 
 
