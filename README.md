@@ -75,6 +75,7 @@ The NRMA Best Car of the Year Awards recognise Australia’s top-performing vehi
 
 ### SATELLITE MEDIA (2009)
 Satellite Media is a full-service digital agency based in Ponsonby, Auckland, New Zealand, specialising in strategy, design, development, and ongoing digital support for leading brands across Australia and New Zealand.
+
 **Tech:** PHP, Wordpress, CSS, HTML, jQury
 
 ![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-01.png?raw=true)
