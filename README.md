@@ -33,7 +33,7 @@ PMS is a project management system for tracking school infrastructure activities
 ### Payupstat (2019)
 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
 **Tech:** React, Node.js, Express, MongoDB 
-![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PM-MAIN-01.png?raw=true)
+![Alt Text](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
 
 ### GBBC (2024)
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
