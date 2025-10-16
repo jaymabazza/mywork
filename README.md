@@ -65,11 +65,25 @@ Love Agency is a Sydney-based digital design and web solutions agency specialisi
 ### NRMA x ABC AWARDS (2014)
 The NRMA Best Car of the Year Awards recognise Australia’s top-performing vehicles across various categories, celebrating excellence in safety, value, performance, and overall ownership experience.
 
-**Tech:** Laravel PHP, CSS. HTML, Angular
+**Tech:** Laravel PHP, CSS, HTML, Angular
 
 ![NRMA ABC](https://github.com/jaymabazza/mywork/blob/main/screens/NRMA-ABC-01.png?raw=true)
 
 ![NRMA ABC](https://github.com/jaymabazza/mywork/blob/main/screens/NRMA-ABC-02.png?raw=true)
+
+
+
+### SATELLITE MEDIA (2009)
+Satellite Media is a full-service digital agency based in Ponsonby, Auckland, New Zealand, specialising in strategy, design, development, and ongoing digital support for leading brands across Australia and New Zealand.
+**Tech:** PHP, Wordpress, CSS, HTML, jQury
+
+![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-01.png.png?raw=true)
+
+![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-02.png.png?raw=true)
+
+![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-03.png.png?raw=true)
+
+![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-04.png.png?raw=true)
 
 
 
