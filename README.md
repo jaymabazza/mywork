@@ -46,7 +46,7 @@ GBBC is a fully customised WordPress site featuring extended functionality throu
 
 
 
-### LOVE AGENCY (2017)
+### LOVE AGENCY (2015)
 Love Agency is a Sydney-based digital design and web solutions agency specialising in high quality native mobile apps and responsive websites.
 **Tech:** Laravel PHP, Angular, CSS, HTML, Responsive Web, WCAG 
 
