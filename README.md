@@ -30,6 +30,18 @@
 ![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/PMS-MAIN-04.png?raw=true)
 
 
+### Telstra (2017-2019)
+💛 Telstra CAT is a dual-interface web app enabling customers to self-serve or get agent support for enrolling in services, relocating, and managing account details.
+
+🚀 **Tech:** React, AngularJS, Adobe AEM, Java, Relational DB 
+
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/TELSTRA-1.png?raw=true)
+
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/TELSTRA-3.png?raw=true)
+
+![PMS](https://github.com/jaymabazza/mywork/blob/main/screens/TELSTRA-2.png?raw=true)
+
+
 
 ### Payupstat (2019)
 💛 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
