@@ -39,6 +39,16 @@ PayUpStat is a web app for doctors and nurses to securely record and manage thei
 ![Payupstat](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
 
 
+### Vodafone's MyMix Prepaid Combinator (2015-2016)
+Vodafone MyMix is a customizable prepaid recharge builder letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
+
+**Tech:** React, Angular, Relational DB, Ruby On Rails
+
+![VODAFONE](https://github.com/jaymabazza/mywork/blob/main/screens/VODA-1.png?raw=true)
+
+![VODAFONE](https://github.com/jaymabazza/mywork/blob/main/screens/VODA-2.png?raw=true)
+
+
 
 ### GBBC (2024)
 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
