@@ -17,7 +17,7 @@
 ## 🧠 Projects
 
 ### SI PMS (2019 to present)
-ℹ️ PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
+💛 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
 
 🚀 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
 
@@ -32,7 +32,7 @@
 
 
 ### Payupstat (2019)
-ℹ️ PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
+💛 PayUpStat is a web app for doctors and nurses to securely record and manage their work hours, featuring real-time data entry, user authentication, and automated reporting.
 
 🚀 **Tech:** React, Node.js, Express, MongoDB 
 
@@ -40,9 +40,9 @@
 
 
 ### Vodafone's MyMix Prepaid Combinator (2015-2016)
-ℹ️ Vodafone MyMix is a customizable prepaid recharge builder letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
+💛 Vodafone MyMix is a customizable prepaid recharge builder letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
 
-**Tech:** React, Angular, Relational DB, Ruby On Rails
+**Tech:** React, Angularjs, Relational DB, Ruby On Rails
 
 ![VODAFONE](https://github.com/jaymabazza/mywork/blob/main/screens/VODA-1.png?raw=true)
 
@@ -51,7 +51,7 @@
 
 
 ### GBBC (2024)
-ℹ️ GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
+💛 GBBC is a fully customised WordPress site featuring extended functionality through custom plugins, tailored CSS styling, and AI-generated imagery for enhanced visual design.
 
 🚀 **Tech:** Wordpress, Tailwind, AI, AWS 
 
@@ -60,7 +60,7 @@
 
 
 ### LOVE AGENCY (2015)
-ℹ️ Love Agency is a Sydney-based digital design and web solutions agency specialising in high quality native mobile apps and responsive websites.
+💛 Love Agency is a Sydney-based digital design and web solutions agency specialising in high quality native mobile apps and responsive websites.
 
 🚀 **Tech:** Laravel PHP, Angular, CSS, HTML, Responsive Web, WCAG 
 
@@ -73,7 +73,7 @@
 
 
 ### NRMA x ABC AWARDS (2014)
-ℹ️ The NRMA Best Car of the Year Awards recognise Australia’s top-performing vehicles across various categories, celebrating excellence in safety, value, performance, and overall ownership experience.
+💛 The NRMA Best Car of the Year Awards recognise Australia’s top-performing vehicles across various categories, celebrating excellence in safety, value, performance, and overall ownership experience.
 
 🚀 **Tech:** Laravel PHP, CSS, HTML, Angular
 
@@ -84,9 +84,9 @@
 
 
 ### SATELLITE MEDIA (2009)
-ℹ️ Satellite Media is a full-service digital agency based in Ponsonby, Auckland, New Zealand, specialising in strategy, design, development, and ongoing digital support for leading brands across Australia and New Zealand.
+💛 Satellite Media is a full-service digital agency based in Ponsonby, Auckland, New Zealand, specialising in strategy, design, development, and ongoing digital support for leading brands across Australia and New Zealand.
 
-🚀 **Tech:** PHP, Wordpress, CSS, HTML, jQury
+🚀 **Tech:** PHP, Wordpress, CSS, HTML, jQuery
 
 ![Satellite](https://github.com/jaymabazza/mywork/blob/main/screens/SATMED-MAIN-01.png?raw=true)
 
