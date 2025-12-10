@@ -39,8 +39,8 @@
 ![Payupstat](https://github.com/jaymabazza/mywork/blob/main/screens/PS-MAIN-01.png?raw=true)
 
 
-### Vodafone's MyMix Prepaid Combinator (2015-2016)
-💛 Vodafone MyMix is a customizable prepaid recharge builder letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
+### Vodafone (2014-2016)
+💛 Vodafone MyMix Prepaid Plan Combinator is a customizable prepaid recharge platform letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
 
 🚀 **Tech:** React, Angularjs, Relational DB, Ruby On Rails
 
