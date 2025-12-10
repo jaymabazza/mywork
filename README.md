@@ -42,7 +42,7 @@
 ### Vodafone's MyMix Prepaid Combinator (2015-2016)
 💛 Vodafone MyMix is a customizable prepaid recharge builder letting customers mix-and-match data, calls, international minutes, and plan duration to create personalized packages and save costs.
 
-**Tech:** React, Angularjs, Relational DB, Ruby On Rails
+🚀 **Tech:** React, Angularjs, Relational DB, Ruby On Rails
 
 ![VODAFONE](https://github.com/jaymabazza/mywork/blob/main/screens/VODA-1.png?raw=true)
 
