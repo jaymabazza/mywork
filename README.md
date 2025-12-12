@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jay Mabazza  
-### Frontend Developer | React | Web Design | Digital Designs
+### Frontend Developer | React | Angular | Web Design | Digital Designs
 
 🚀 Passionate about crafting modern, user-friendly web experiences using **React**, **Angular**, **Tailwind**, and **Node.js**.  
 💡 I love building custom solutions, exploring AI-generated design tools, and automating workflows.
