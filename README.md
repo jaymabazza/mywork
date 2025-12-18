@@ -17,7 +17,7 @@
 ## 🧠 Projects
 
 ### SI PMS (2019 to present)
-💛 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, powered by a Node.js backend and hosted on AWS for scalability and reliability.
+💛 PMS is a project management system for tracking school infrastructure activities, built with React, Angular, and Tailwind for a responsive UI, and hosted on AWS for scalability and reliability.
 
 🚀 **Tech:** React, Angular, Nodejs, PHP, AWS, Postgres 
 
